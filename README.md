@@ -1,2 +1,2 @@
 # sample
-ex
+Example work .......
